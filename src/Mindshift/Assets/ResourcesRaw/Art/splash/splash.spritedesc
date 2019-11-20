@@ -1,0 +1,31 @@
+sprite_sheet "splash" 256 x 128 margin 1
+
+img "splash.xcf.bz2"
+
+"frame 1" autosize * 0.5 with img
+  "frame 1"
+  ;
+
+"frame 2" autosize * 0.5 with img
+  "frame 2"
+  ;
+
+"frame 3" autosize * 0.5 with img
+  "frame 3"
+  ;
+
+"frame 4" autosize * 0.5 with img
+  "frame 4"
+  ;
+
+"frame 5" autosize * 0.5 with img
+  "frame 5"
+  ;
+
+"frame 6" autosize * 0.5 with img
+  "frame 6"
+  ;
+
+"frame 7" autosize * 0.5 with img
+  "frame 7"
+  ;

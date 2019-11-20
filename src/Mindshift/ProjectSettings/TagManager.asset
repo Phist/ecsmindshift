@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - GroundTrigger
+  - Humans
+  - Taken
+  - Dropped
+  - Projectiles
+  - Ground
+  - DestroyCollider
+  - SacrificeKillers
+  - TriggerOnHuman
+  - ClickRaycastTarget
+  - Boss
+  - Hittable
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Structures
+    uniqueID: 993452717
+    locked: 0
+  - name: Humans
+    uniqueID: 3628581767
+    locked: 0
+  - name: Projectiles
+    uniqueID: 715080937
+    locked: 0
+  - name: Clickers
+    uniqueID: 1136592299
+    locked: 0
+  - name: ForegroundFx
+    uniqueID: 3191126681
+    locked: 0
+  - name: ForegroundDecor
+    uniqueID: 4114261893
+    locked: 0

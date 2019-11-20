@@ -1,0 +1,22 @@
+This work of art is extracted from the game Plee the Bear
+(see http://www.stuff-o-matic.com/ptb/) with the following
+copyright information:
+
+  © 2005-2013 Julien Jorge <julien.jorge@stuff-o-matic.com>
+
+It is licenced under the terms of the version 3.0 of the
+Creative Commons Attribution-Share Alike license. See the file
+named CCPL for details.
+
+== BUILDING THE FILES ==
+
+The archive may contain a .spritedesc file that can be passed
+to Pack My Sprite in order to build the PNG and .spritepos
+files. See http://www.stuff-o-matic.com/pack-my-sprites/ for
+details.
+
+Alternatively, there may be a Scheme script to be passed to
+Gimp to build the PNG file. Type the following command to run
+the script:
+  
+  gimp-console -b - < the_script.scm

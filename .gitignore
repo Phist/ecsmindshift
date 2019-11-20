@@ -4,6 +4,14 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+src/Mindshift/Temp
+
+src/Mindshift/Library
+src/Mindshift/.idea
+src/Mindshift/Assembly-CSharp.csproj
+src/Mindshift/Assembly-CSharp-Editor.csproj
+src/Mindshift/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+src/Mindshift/obj
 
 # Visual Studio cache directory
 .vs/
